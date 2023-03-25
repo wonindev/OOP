@@ -1,0 +1,15 @@
+/Users/swp/Desktop/OOP/LinkedListStack/bin/Debug/net7.0/LinkedListStack
+/Users/swp/Desktop/OOP/LinkedListStack/bin/Debug/net7.0/LinkedListStack.deps.json
+/Users/swp/Desktop/OOP/LinkedListStack/bin/Debug/net7.0/LinkedListStack.runtimeconfig.json
+/Users/swp/Desktop/OOP/LinkedListStack/bin/Debug/net7.0/LinkedListStack.dll
+/Users/swp/Desktop/OOP/LinkedListStack/bin/Debug/net7.0/LinkedListStack.pdb
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.csproj.AssemblyReference.cache
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.AssemblyInfoInputs.cache
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.AssemblyInfo.cs
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.csproj.CoreCompileInputs.cache
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.dll
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/refint/LinkedListStack.dll
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.pdb
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/LinkedListStack.genruntimeconfig.cache
+/Users/swp/Desktop/OOP/LinkedListStack/obj/Debug/net7.0/ref/LinkedListStack.dll
