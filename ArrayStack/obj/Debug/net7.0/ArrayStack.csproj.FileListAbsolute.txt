@@ -1,0 +1,15 @@
+/Users/swp/Desktop/OOP/ArrayStack/bin/Debug/net7.0/ArrayStack
+/Users/swp/Desktop/OOP/ArrayStack/bin/Debug/net7.0/ArrayStack.deps.json
+/Users/swp/Desktop/OOP/ArrayStack/bin/Debug/net7.0/ArrayStack.runtimeconfig.json
+/Users/swp/Desktop/OOP/ArrayStack/bin/Debug/net7.0/ArrayStack.dll
+/Users/swp/Desktop/OOP/ArrayStack/bin/Debug/net7.0/ArrayStack.pdb
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.csproj.AssemblyReference.cache
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.AssemblyInfoInputs.cache
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.AssemblyInfo.cs
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.csproj.CoreCompileInputs.cache
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.dll
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/refint/ArrayStack.dll
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.pdb
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ArrayStack.genruntimeconfig.cache
+/Users/swp/Desktop/OOP/ArrayStack/obj/Debug/net7.0/ref/ArrayStack.dll
