@@ -59,6 +59,7 @@ namespace LinkedListStack
             {
                 System.Console.WriteLine("스택이 비어있습니다.");
                 return;
+                
             }
 
             System.Console.WriteLine("{0}을 삭제했습니다.", top.data);
