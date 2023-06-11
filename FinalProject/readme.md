@@ -59,9 +59,21 @@ https://github.com/hansei-it/telphoneapp_cs21
 ![image](https://github.com/wonindev/OOP/assets/100292629/41f08302-01b6-4fdd-9a25-4468126b50a2)
 
 ![image](https://github.com/wonindev/OOP/assets/100292629/65ebd01f-3c5b-47c8-abe0-a13004a79dc2)
+
+<br>
+
 14. 품목 숨김을 통해 현재 품목을 모두 숨김
+
+<br>
+
 ![image](https://github.com/wonindev/OOP/assets/100292629/aad91d42-6553-4c2b-9bce-2baa9e174591)
+
+<br>
+
 15. 새로고침 버튼을 통해 다시 품목을 보이게 함
+
+<br>
+
 ![image](https://github.com/wonindev/OOP/assets/100292629/65ebd01f-3c5b-47c8-abe0-a13004a79dc2)
 
 
