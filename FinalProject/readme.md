@@ -6,10 +6,13 @@
 
 원본코드
 https://github.com/hansei-it/telphoneapp_cs21
+이름과 전화번호를 입력 후 사람을 저장하는 코드
 
 ![image](https://github.com/wonindev/OOP/assets/100292629/f3d1d550-bb56-48ec-86cb-43df30a3e4b1)
 
 ---
+수정한 가게 프로그램
+
 1. 로그인 화면 구현
 ![image](https://github.com/wonindev/OOP/assets/100292629/534284cd-b591-4f41-8a2e-102d3bf3a599)
 
