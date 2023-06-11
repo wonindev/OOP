@@ -115,6 +115,7 @@ namespace Store
         {
             Inventory inventory = new Inventory();
             inventory.Show();
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -203,6 +204,12 @@ namespace Store
                 TotalSum.Text = SumTotal.ToString() + "원";
             }
             
+        }
+
+        private void btn_employeeManagement_Click(object sender, EventArgs e)
+        {
+            EmployeeForm form = new EmployeeForm();
+            form.Show();
         }
     }
 }

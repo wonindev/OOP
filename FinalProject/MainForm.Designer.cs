@@ -55,6 +55,7 @@ namespace Store
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.TotalSum = new System.Windows.Forms.TextBox();
+            this.btn_employeeManagement = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -230,7 +231,7 @@ namespace Store
             // 
             // MV_Inventory
             // 
-            this.MV_Inventory.Location = new System.Drawing.Point(658, 300);
+            this.MV_Inventory.Location = new System.Drawing.Point(668, 202);
             this.MV_Inventory.Name = "MV_Inventory";
             this.MV_Inventory.Size = new System.Drawing.Size(135, 73);
             this.MV_Inventory.TabIndex = 5;
@@ -312,11 +313,22 @@ namespace Store
             this.TotalSum.TabIndex = 14;
             this.TotalSum.TextChanged += new System.EventHandler(this.TotalSum_TextChanged);
             // 
+            // btn_employeeManagement
+            // 
+            this.btn_employeeManagement.Location = new System.Drawing.Point(667, 299);
+            this.btn_employeeManagement.Name = "btn_employeeManagement";
+            this.btn_employeeManagement.Size = new System.Drawing.Size(136, 74);
+            this.btn_employeeManagement.TabIndex = 15;
+            this.btn_employeeManagement.Text = "직원관리";
+            this.btn_employeeManagement.UseVisualStyleBackColor = true;
+            this.btn_employeeManagement.Click += new System.EventHandler(this.btn_employeeManagement_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(849, 587);
+            this.Controls.Add(this.btn_employeeManagement);
             this.Controls.Add(this.TotalSum);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -374,6 +386,7 @@ namespace Store
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox TotalSum;
+        private System.Windows.Forms.Button btn_employeeManagement;
     }
 }
 

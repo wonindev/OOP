@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\OOPFinal\Store\bin\Debug\Store.exe.config
+C:\Users\User\Desktop\OOPFinal\Store\bin\Debug\Store.exe
+C:\Users\User\Desktop\OOPFinal\Store\bin\Debug\Store.pdb
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.Properties.Resources.resources
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.exe
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.pdb
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.MainForm.resources
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.Login.resources
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.Inventory.resources
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.EmployeeForm.resources
+C:\Users\User\Desktop\OOPFinal\Store\obj\Debug\Store.FindIDPW.resources
