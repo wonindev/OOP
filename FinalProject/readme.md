@@ -78,13 +78,13 @@ https://github.com/hansei-it/telphoneapp_cs21
 
 
 ---
-17. 직원 관리 구현 18. 원하는 직원의 이름, 생년월일, 월급을 입력하고 등록 구현 
+16. 직원 관리 구현 17. 원하는 직원의 이름, 생년월일, 월급을 입력하고 등록 구현 
 ![image](https://github.com/wonindev/OOP/assets/100292629/37fbef78-7b27-4d0d-b56b-6f8d3f778c4c)
-19. 삭제하고 싶은 직원 이름을 넣고 삭제 구현
+18. 삭제하고 싶은 직원 이름을 넣고 삭제 구현
 ![image](https://github.com/wonindev/OOP/assets/100292629/d31ab537-41a9-484a-874e-c5301e2a919a)
-20. 직원 목록을 숨기는 숨김 구현
+19. 직원 목록을 숨기는 숨김 구현
 ![image](https://github.com/wonindev/OOP/assets/100292629/37fbef78-7b27-4d0d-b56b-6f8d3f778c4c)
-21. 새로고침을 통해 숨겼던 직원 목록 보이게 구현
+20. 새로고침을 통해 숨겼던 직원 목록 보이게 구현
 ![image](https://github.com/wonindev/OOP/assets/100292629/9259340b-3e6d-4d77-9209-9fd621ad2b7a)
 
 
